@@ -14,12 +14,12 @@
  - 😄 Pronouns: ...
  - ⚡ Fun fact: ...
  -->
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zubair Ahmed
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murtuza
  ====================================================================================================================================
  
  * 🌍  I'm based in Hyderabad
- * ✉️  You can contact me at [zubairahmed.282002@gmail.com](mailto:zubairahmed.282002@gmail.com)
- * 🧠  I'm learning Asp.NET
+ * ✉️  You can contact me at [murtuzaa02087172@gmail.com](mailto:murtuzaa02087172@gmail.com)
+ * 🧠 I have a strong technical inclination toward data science, machine learning, and artificial intelligence
  
  <a href="https://www.github.com/Mcqn1" target="_blank" rel="noreferrer"><img
  src="https://img.shields.io/github/followers/Mcqn1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
